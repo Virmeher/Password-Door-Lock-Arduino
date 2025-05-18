@@ -26,10 +26,12 @@ Arduino `.ino` code is included in this repo. You can simulate this project in T
 [🔌 Click here to open the simulation in Tinkercad]([https://www.tinkercad.com/things/4QZzGGoYBGo-final-pswd-based-door-unlocking-system])
 
 ## 📸 Images
-- `circuit.png`: Digital schematic made in Tinkercad
-- `project_photo.jpg`: Real-world image of the built project
+- `Schematic's.png`: Digital schematic made in Tinkercad
+- `circuit.png`: Real-world image of the built project
 
 ---
 
 ## 🙋‍♂️ Made By
 **Shubham Meher**, with assistance from my IoT mentor  
+![circuit](https://github.com/user-attachments/assets/473a4849-f89e-4c5b-a2a8-f97ff8a73010)
+![Schematic's](https://github.com/user-attachments/assets/cb67c665-da49-4562-81e2-838a4438761a)
